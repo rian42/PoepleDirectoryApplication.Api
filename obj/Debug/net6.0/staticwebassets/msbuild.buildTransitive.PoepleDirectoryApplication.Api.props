@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PoepleDirectoryApplication.Api.props" />
+</Project>
